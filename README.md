@@ -1,7 +1,6 @@
 ### Hi I‘m CoreNya 👋
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=CoreNya;The+Cute+Cats+In+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&lines=CoreNya;One+Of+The+Cutest+Cats+In+The+World)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreYunFeng&langs_count=10&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) [![CoreYunFeng's github stats](https://github-readme-stats.vercel.app/api?username=CoreYunFeng&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
