@@ -1,6 +1,6 @@
 ### Hi I‘m AsZer0s 👋
 
-[![SNK]([https://raw.githubusercontent.com/AsZer0s/AsZer0s/refs/heads/output/github-contribution-grid-snake-dark.svg)](zerospace.dev)
+[![SNK](https://raw.githubusercontent.com/AsZer0s/AsZer0s/refs/heads/output/github-contribution-grid-snake-dark.svg)](https://zerospace.dev)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&duration=3000&pause=1000&random=false&width=435&lines=CoreNya;One+Of+The+Cutest+Cats+In+The+World)](https://hiyun.top)
 
